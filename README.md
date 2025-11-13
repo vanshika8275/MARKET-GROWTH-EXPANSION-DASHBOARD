@@ -5,6 +5,7 @@ This project analyzes Indian cities to identify untapped market opportunities fo
 
 📊 Project Components
 
+[MARKET GROWTH EXPANSION DASHBOARD PDF.pdf](https://github.com/user-attachments/files/23529163/MARKET.GROWTH.EXPANSION.DASHBOARD.PDF.pdf)
 Power BI Dashboard (PPT / PBIX)
 
 Interactive visualizations showing MPI scores, city rankings, and categories.
