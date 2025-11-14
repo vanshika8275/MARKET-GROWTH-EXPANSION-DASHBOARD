@@ -4,7 +4,8 @@ Market Expansion Strategy Dashboard – Indian Cities
 This project analyzes Indian cities to identify untapped market opportunities for business expansion. Using key indicators, I developed a Market Potential Index (MPI) to rank cities based on growth potential, not just size. The aim is to provide data-driven insights for strategic decision-making.
 
 📊 Project Components
-[MARKET GROWTH EXPANSION DASHBOARD.pdf](https://github.com/user-attachments/files/23542128/MARKET.GROWTH.EXPANSION.DASHBOARD.pdf)
+(https://github.com/user-attachments/files/23542792/MARKET.EXPANSION.STRATEGY.DASHBOARD.pdf)
+
 
 
 Interactive visualizations showing MPI scores, city rankings, and categories.
